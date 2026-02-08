@@ -53,3 +53,6 @@ View key metrics such as ROI, CTR, CPA, and CPC
 Explore spend vs. revenue trends
 
 Gain clear, actionable insights to inform marketing decisions
+
+<img width="1275" height="761" alt="image" src="https://github.com/user-attachments/assets/761721b8-c51e-4cf7-947d-81541fe41ab9" />
+
